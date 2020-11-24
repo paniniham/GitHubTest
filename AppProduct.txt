@@ -1,2 +1,3 @@
 This is the beginning of this product containing the most basic application
 After that, the body of the product is considered. Some bugs were fixed.
+Finally, the product is now stable, all bugs are gone full languages added. 
