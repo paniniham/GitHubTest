@@ -6,3 +6,5 @@ This is another add-in that allows you to share resources with other users on th
 This project has now been pushed to github.
 I would like to welcome the addition of friend 1
 Friend1 thank you for your warm welcome. Oh and how are you?
+
+I want to commit this fact 1+1=2
