@@ -10,4 +10,4 @@ Friend1 thank you for your warm welcome. Oh and how are you?
 I want to commit this fact 1+1=2
 Friend1 wants to commit this fact 1+1=3
 
-1
+12
