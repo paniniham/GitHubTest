@@ -5,4 +5,4 @@ Finally, the product is now stable, all bugs are gone full languages added.
 This is another add-in that allows you to share resources with other users on the network. This feature has finally implemented in master
 This project has now been pushed to github.
 I would like to welcome the addition of friend 1
-Friend1 thank you for your warm welcome.
+Friend1 thank you for your warm welcome. Oh and how are you?
